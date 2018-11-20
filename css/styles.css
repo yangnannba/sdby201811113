@@ -506,9 +506,14 @@ body {
   box-shadow: 0 0.1rem 0.1rem #d1d2d6;
 }
 
+.xinren {
+  margin-bottom: 0.4rem;
+}
+
 .sybd-sqb {
   background: #fbefd2 url(../images/spb-bg.png);
   padding: 1rem 0.6rem;
+  margin-bottom: 0.4rem;
 }
 
 .sqb-biaoti {
